@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolllin'.CSharp.Plugins", "Rolllin'.CSharp.Plugins.csproj", "{BA2D1430-5E81-0EAD-5599-F09CD32C1C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolllin'.CSharp", "Rolllin'.CSharp.csproj", "{2F2A37A5-3ED2-9B8C-1DF5-477CBB9FC6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolllin'.CSharp.Editor", "Rolllin'.CSharp.Editor.csproj", "{2EE75544-833E-5C4E-A0F8-B83273712637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2D1430-5E81-0EAD-5599-F09CD32C1C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2D1430-5E81-0EAD-5599-F09CD32C1C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2D1430-5E81-0EAD-5599-F09CD32C1C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2D1430-5E81-0EAD-5599-F09CD32C1C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2A37A5-3ED2-9B8C-1DF5-477CBB9FC6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2A37A5-3ED2-9B8C-1DF5-477CBB9FC6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2A37A5-3ED2-9B8C-1DF5-477CBB9FC6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2A37A5-3ED2-9B8C-1DF5-477CBB9FC6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE75544-833E-5C4E-A0F8-B83273712637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE75544-833E-5C4E-A0F8-B83273712637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE75544-833E-5C4E-A0F8-B83273712637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE75544-833E-5C4E-A0F8-B83273712637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
