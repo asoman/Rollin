@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 1339839acd26ee742a30ffed5a7fb635
-timeCreated: 1468941157
+timeCreated: 1469016586
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -60,7 +60,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
-  textureType: 0
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
     sprites:
@@ -68,110 +68,106 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 86
-        y: 1576
+        y: 1577
         width: 340
-        height: 432
+        height: 430
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 169, y: -211}
-        - {x: 170, y: -208}
-        - {x: 170, y: 208}
-        - {x: 169, y: 211}
+      - - {x: 169, y: 211}
         - {x: 166, y: 214}
-        - {x: 161, y: 216}
-        - {x: -161, y: 216}
+        - {x: 163, y: 215}
+        - {x: -163, y: 215}
         - {x: -166, y: 214}
         - {x: -169, y: 211}
         - {x: -170, y: 208}
         - {x: -170, y: -208}
         - {x: -169, y: -211}
         - {x: -166, y: -214}
-        - {x: -161, y: -216}
-        - {x: 161, y: -216}
-        - {x: 166, y: -214}
+        - {x: -163, y: -215}
+        - {x: 164, y: -215}
+        - {x: 169, y: -211}
+        - {x: 170, y: -209}
+        - {x: 170, y: 208}
     - name: diffuse_red_1
       rect:
         serializedVersion: 2
         x: 598
-        y: 1576
+        y: 1577
         width: 340
-        height: 432
+        height: 430
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 169, y: -211}
-        - {x: 170, y: -208}
-        - {x: 170, y: 208}
-        - {x: 169, y: 211}
+      - - {x: 169, y: 211}
         - {x: 166, y: 214}
-        - {x: 161, y: 216}
-        - {x: -161, y: 216}
+        - {x: 163, y: 215}
+        - {x: -163, y: 215}
         - {x: -166, y: 214}
         - {x: -169, y: 211}
         - {x: -170, y: 208}
         - {x: -170, y: -208}
         - {x: -169, y: -211}
         - {x: -166, y: -214}
-        - {x: -161, y: -216}
-        - {x: 161, y: -216}
-        - {x: 166, y: -214}
+        - {x: -163, y: -215}
+        - {x: 164, y: -215}
+        - {x: 169, y: -211}
+        - {x: 170, y: -209}
+        - {x: 170, y: 208}
     - name: diffuse_red_2
       rect:
         serializedVersion: 2
         x: 1110
-        y: 1576
+        y: 1577
         width: 340
-        height: 432
+        height: 430
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 169, y: -211}
-        - {x: 170, y: -208}
-        - {x: 170, y: 208}
-        - {x: 169, y: 211}
+      - - {x: 169, y: 211}
         - {x: 166, y: 214}
-        - {x: 161, y: 216}
-        - {x: -161, y: 216}
+        - {x: 163, y: 215}
+        - {x: -163, y: 215}
         - {x: -166, y: 214}
         - {x: -169, y: 211}
         - {x: -170, y: 208}
         - {x: -170, y: -208}
         - {x: -169, y: -211}
         - {x: -166, y: -214}
-        - {x: -161, y: -216}
-        - {x: 161, y: -216}
-        - {x: 166, y: -214}
+        - {x: -163, y: -215}
+        - {x: 164, y: -215}
+        - {x: 169, y: -211}
+        - {x: 170, y: -209}
+        - {x: 170, y: 208}
     - name: diffuse_red_3
       rect:
         serializedVersion: 2
         x: 1622
-        y: 1576
+        y: 1577
         width: 340
-        height: 432
+        height: 430
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 169, y: -211}
-        - {x: 170, y: -208}
-        - {x: 170, y: 208}
-        - {x: 169, y: 211}
+      - - {x: 169, y: 211}
         - {x: 166, y: 214}
-        - {x: 161, y: 216}
-        - {x: -161, y: 216}
+        - {x: 163, y: 215}
+        - {x: -163, y: 215}
         - {x: -166, y: 214}
         - {x: -169, y: 211}
         - {x: -170, y: 208}
         - {x: -170, y: -208}
         - {x: -169, y: -211}
         - {x: -166, y: -214}
-        - {x: -161, y: -216}
-        - {x: 161, y: -216}
-        - {x: 166, y: -214}
+        - {x: -163, y: -215}
+        - {x: 164, y: -215}
+        - {x: 169, y: -211}
+        - {x: 170, y: -209}
+        - {x: 170, y: 208}
     - name: diffuse_red_4
       rect:
         serializedVersion: 2
